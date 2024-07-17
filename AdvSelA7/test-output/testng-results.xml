@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Report generation]]>
+    </line>
+    <line>
+      <![CDATA[script6]]>
+    </line>
+    <line>
+      <![CDATA[Tes Script Execution started]]>
+    </line>
+    <line>
+      <![CDATA[Test script passed]]>
+    </line>
+    <line>
+      <![CDATA[script6]]>
+    </line>
+    <line>
+      <![CDATA[Tes Script Execution started]]>
+    </line>
+    <line>
+      <![CDATA[Test script passed]]>
+    </line>
+    <line>
+      <![CDATA[script2]]>
+    </line>
+    <line>
+      <![CDATA[Tes Script Execution started]]>
+    </line>
+    <line>
+      <![CDATA[Test script passed]]>
+    </line>
+    <line>
+      <![CDATA[Report]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-15T15:40:44 IST" name="Suite" finished-at="2024-07-15T15:42:55 IST" duration-ms="131683">
+    <groups>
+      <group name="Campaign">
+        <method signature="ScriptForCampaignUsingTestNg_Test.script6()[pri:0, instance:ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test@5aebe890]" name="script6" class="ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test"/>
+      </group> <!-- Campaign -->
+    </groups>
+    <test started-at="2024-07-15T15:40:44 IST" name="Test" finished-at="2024-07-15T15:42:55 IST" duration-ms="131683">
+      <class name="ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test@79d8407f]" started-at="2024-07-15T15:40:42 IST" name="BeforeSuite" finished-at="2024-07-15T15:40:44 IST" duration-ms="1706" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Report generation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeClass(java.lang.String)[pri:0, instance:ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test@79d8407f]" started-at="2024-07-15T15:40:44 IST" name="BeforeClass" finished-at="2024-07-15T15:40:58 IST" duration-ms="14586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test@79d8407f]" started-at="2024-07-15T15:40:58 IST" name="BeforeMethod" finished-at="2024-07-15T15:41:09 IST" duration-ms="10992" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[private void ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test.script6() throws org.apache.poi.EncryptedDocumentException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[script6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="script6()[pri:0, instance:ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test@79d8407f]" started-at="2024-07-15T15:41:09 IST" name="script6" finished-at="2024-07-15T15:41:34 IST" duration-ms="24340" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tes Script Execution started]]>
+            </line>
+            <line>
+              <![CDATA[Test script passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- script6 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test@79d8407f]" started-at="2024-07-15T15:41:34 IST" name="AfterMethod" finished-at="2024-07-15T15:41:37 IST" duration-ms="3433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test@79d8407f]" started-at="2024-07-15T15:41:37 IST" name="AfterClass" finished-at="2024-07-15T15:41:38 IST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test@79d8407f]" started-at="2024-07-15T15:42:55 IST" name="afterSuite" finished-at="2024-07-15T15:42:57 IST" duration-ms="1366" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Report]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- ScriptUsingTestNg.ScriptForDocumentPageUSingTestNG_Test -->
+      <class name="ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test">
+        <test-method is-config="true" signature="BeforeClass(java.lang.String)[pri:0, instance:ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test@5aebe890]" started-at="2024-07-15T15:41:38 IST" name="BeforeClass" finished-at="2024-07-15T15:41:47 IST" duration-ms="9030" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test@5aebe890]" started-at="2024-07-15T15:41:47 IST" name="BeforeMethod" finished-at="2024-07-15T15:41:57 IST" duration-ms="10126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test.script6() throws org.apache.poi.EncryptedDocumentException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[script6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="script6()[pri:0, instance:ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test@5aebe890]" started-at="2024-07-15T15:41:57 IST" name="script6" finished-at="2024-07-15T15:42:12 IST" duration-ms="15281" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tes Script Execution started]]>
+            </line>
+            <line>
+              <![CDATA[Test script passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- script6 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test@5aebe890]" started-at="2024-07-15T15:42:12 IST" name="AfterMethod" finished-at="2024-07-15T15:42:16 IST" duration-ms="3280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test@5aebe890]" started-at="2024-07-15T15:42:16 IST" name="AfterClass" finished-at="2024-07-15T15:42:16 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- ScriptUsingTestNg.ScriptForCampaignUsingTestNg_Test -->
+      <class name="ScriptUsingTestNg.ScriptForContactsUSingTestNg_Test">
+        <test-method is-config="true" signature="BeforeClass(java.lang.String)[pri:0, instance:ScriptUsingTestNg.ScriptForContactsUSingTestNg_Test@65d09a04]" started-at="2024-07-15T15:42:16 IST" name="BeforeClass" finished-at="2024-07-15T15:42:25 IST" duration-ms="8581" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:ScriptUsingTestNg.ScriptForContactsUSingTestNg_Test@65d09a04]" started-at="2024-07-15T15:42:25 IST" name="BeforeMethod" finished-at="2024-07-15T15:42:34 IST" duration-ms="8851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ScriptUsingTestNg.ScriptForContactsUSingTestNg_Test.script2() throws org.apache.poi.EncryptedDocumentException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[script2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="script2()[pri:0, instance:ScriptUsingTestNg.ScriptForContactsUSingTestNg_Test@65d09a04]" started-at="2024-07-15T15:42:34 IST" name="script2" finished-at="2024-07-15T15:42:51 IST" duration-ms="17075" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tes Script Execution started]]>
+            </line>
+            <line>
+              <![CDATA[Test script passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- script2 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:ScriptUsingTestNg.ScriptForContactsUSingTestNg_Test@65d09a04]" started-at="2024-07-15T15:42:51 IST" name="AfterMethod" finished-at="2024-07-15T15:42:55 IST" duration-ms="3686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:ScriptUsingTestNg.ScriptForContactsUSingTestNg_Test@65d09a04]" started-at="2024-07-15T15:42:55 IST" name="AfterClass" finished-at="2024-07-15T15:42:55 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- ScriptUsingTestNg.ScriptForContactsUSingTestNg_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
